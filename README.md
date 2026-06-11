@@ -2,3 +2,9 @@ t <img width="614" height="175" alt="logolar" src="https://github.com/user-attac
 
 Merging VET with AR: Exploring the Potential of Augmented
 Reality Applications in Vehicles
+
+This branch of project based on 4 scenario
+1- Electrical Motors
+2- Battery inspection
+3- Thermal damage inspection
+4- Electrical insulation
